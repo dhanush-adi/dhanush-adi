@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanush Adithyan</h1>
 <h3 align="center">I’m currently learning Full Stack Web Development, building apps with React, Node.js, and MongoDB. I’m also exploring Blockchain Technology with Ethereum and Solidity, and practicing Data Structures and Algorithms (DSA) to improve my coding skills. Feel free to explore, contribute, or collaborate!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-adi&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-adi" /> </p>
-
 - 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **React, Express.js, and Typescript**
@@ -22,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanush-adi&show_icons=true&locale=en" alt="dhanush-adi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush-adi&" alt="dhanush-adi" /></p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-adi&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-adi" /> </p>
