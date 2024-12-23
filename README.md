@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanush Adithyan</h1>
-<h3 align="center">I’m currently learning Full Stack Web Development, building apps with React, Node.js, and MongoDB. I’m also exploring Blockchain Technology with Ethereum and Solidity, and practicing Data Structures and Algorithms (DSA) to improve my coding skills. Feel free to explore, contribute, or collaborate!</h3>
+<h3 align="left">I’m currently learning Full Stack Web Development, building apps with React, Node.js, and MongoDB. I’m also exploring Blockchain Technology with Ethereum and Solidity, and practicing Data Structures and Algorithms (DSA) to improve my coding skills. Feel free to explore, contribute, or collaborate!</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
