@@ -37,24 +37,27 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 ![Go](https://skillicons.dev/icons?i=go)
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
 
-### Frameworks
+### Frontend
 
 ![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vue.js](https://skillicons.dev/icons?i=vuejs)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+
+### Backend & Database
+
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Spring](https://skillicons.dev/icons?i=spring)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 <img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=flat-square&logo=&logoColor=white" />
 
-### Developer Tools
+### DevOps & Tools
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
