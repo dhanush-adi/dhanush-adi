@@ -40,6 +40,7 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 
 ### Frontend
 
+![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
