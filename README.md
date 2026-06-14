@@ -58,6 +58,7 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
