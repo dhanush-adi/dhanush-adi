@@ -52,7 +52,7 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ### DevOps & Tools
 
