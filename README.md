@@ -84,20 +84,14 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://twitter.com/dhanush1785" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/dhanush-adithyan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/stoopid_1785" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:dhanushvallalar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dhanush1785)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dhanush-adithyan)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/stoopid_1785)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dhanushvallalar@gmail.com)
+
+</div>
 
 ---
 
