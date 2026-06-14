@@ -37,7 +37,6 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 ![Go](https://skillicons.dev/icons?i=go)
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
 
 ### Frontend
 
@@ -55,7 +54,6 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-<img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=flat-square&logo=&logoColor=white" />
 
 ### DevOps & Tools
 
@@ -69,8 +67,6 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 ![NPM](https://skillicons.dev/icons?i=npm)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Jira](https://skillicons.dev/icons?i=jira)
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
 
 </div>
 
