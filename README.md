@@ -29,9 +29,10 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 
 ### Languages
 
-![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
+![Go](https://skillicons.dev/icons?i=go)
+![Rust](https://skillicons.dev/icons?i=rust)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Python](https://skillicons.dev/icons?i=python)
