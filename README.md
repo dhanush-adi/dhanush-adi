@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Developer | Software Development Engineer | DevOps/SRE</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Blockchain+Enthusiast;DSA+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Development+Engineer;DevOps%2FSRE+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
