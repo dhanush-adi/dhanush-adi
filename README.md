@@ -88,7 +88,7 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dhanush1785)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dhanush-adithyan)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/stoopid_1785)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/d.adithyan1785/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dhanushvallalar@gmail.com)
 
 </div>
