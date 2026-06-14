@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Dhanush Adithyan</h1>
-<h3 align="center">Full Stack Developer | Blockchain Enthusiast | DSA Practitioner</h3>
+<h3 align="center">Full Stack Developer | Software Development Engineer | DevOps/SRE</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Blockchain+Enthusiast;DSA+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
@@ -32,31 +32,35 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Solidity](https://skillicons.dev/icons?i=solidity)
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ### Backend & Database
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![Spring](https://skillicons.dev/icons?i=spring)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### Tools & Platforms
+### DevOps & Tools
 
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Ethereum](https://skillicons.dev/icons?i=ethereum)
+![NPM](https://skillicons.dev/icons?i=npm)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 </div>
 
