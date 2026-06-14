@@ -29,43 +29,41 @@ I'm a passionate Full Stack Developer currently building production-ready applic
 
 ### Languages
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![C++](https://skillicons.dev/icons?i=cpp)
-![Solidity](https://skillicons.dev/icons?i=solidity)
+![Java](https://skillicons.dev/icons?i=java)
 ![Go](https://skillicons.dev/icons?i=go)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Rust](https://skillicons.dev/icons?i=rust)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Python](https://skillicons.dev/icons?i=python)
+![Solidity](https://skillicons.dev/icons?i=solidity)
 
-### Frameworks
+### Frontend
 
 ![React](https://skillicons.dev/icons?i=react)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Spring Boot](https://skillicons.dev/icons?i=spring)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vue.js](https://skillicons.dev/icons?i=vuejs)
+
+### Backend & Database
+
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Spring](https://skillicons.dev/icons?i=spring)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-### Developer Tools
+### DevOps & Tools
 
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![NPM](https://skillicons.dev/icons?i=npm)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Jira](https://skillicons.dev/icons?i=jira)
-
-### Spoken Languages
-
-<img src="https://img.shields.io/badge/Tamil-Native-ff6f00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/English-Professional-0078D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kannada-Professional-2ecc71?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Telugu-Conversational-9b59b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hindi-Conversational-e74c3c?style=for-the-badge" />
 
 </div>
 
